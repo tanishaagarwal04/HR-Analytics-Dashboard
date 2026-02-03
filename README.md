@@ -76,5 +76,12 @@ To monitor workforce trends and identify key drivers of attrition using interact
 1. Download the dataset  
 2. Open Power BI Desktop  
 3. Load the CSV file  
-4. Explore dashboard visuals using filters and slicers  
+4. Explore dashboard visuals using filters and slicers
+
+## 8. Screenshots
+
+### Dashboard Preview
+![HR Analytics Dashboard](https://raw.githubusercontent.com/tanishaagarwal04/HR-Analytics-Dashboard/main/Dashboard%20Screenshot.png)
+
+   
 
