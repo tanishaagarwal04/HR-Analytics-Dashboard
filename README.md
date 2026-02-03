@@ -21,5 +21,3 @@ Power BI | DAX | CSV Dataset | Data Visualization
 - HR_Analytics.csv (dataset)
 - HR Analytics Dashboard.pdf (dashboard export)
 
-## Author
-Tanisha Agarwal
